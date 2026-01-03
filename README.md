@@ -60,11 +60,11 @@ python ai_forecast.py
 
 Expected Output:
 
-🚀 Connecting to Database...
-✅ Raw Data Loaded! Records: 9994
-🤖 AI Model Trained Successfully!
+ Connecting to Database...
+ Raw Data Loaded! Records: 9994
+ AI Model Trained Successfully!
 ========================================
-🔮 Forecast for Next Month: $69,910.03
+ Forecast for Next Month: $69,910.03
 ========================================
 
 Sachintha Praneeth Undergraduate at SLIIT
